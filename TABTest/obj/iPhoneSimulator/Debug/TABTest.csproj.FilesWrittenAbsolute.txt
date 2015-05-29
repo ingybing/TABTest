@@ -1,0 +1,15 @@
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/D4q-9u-WfQ-view-LCO-t6-X0R.nib
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/EYd-eS-MQc-view-ga6-05-cuR.nib
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-40P-6y-xHn.nib
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-Wjf-ti-NY6.nib
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/
+/Users/david.ingham/Projects/TABTest/TABTest/bin/iPhoneSimulator/Debug/TABTest.exe.mdb
+/Users/david.ingham/Projects/TABTest/TABTest/bin/iPhoneSimulator/Debug/TABTest.exe
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/TABTest.exe
+/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhoneSimulator/Debug/TABTest.exe.mdb

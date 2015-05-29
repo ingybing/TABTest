@@ -1,0 +1,34 @@
+# Version: 8.10.0.3 (3c4e832)
+# [first argument, ignore] # /Users/david.ingham/Projects/TABTest/TABTest/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.10.0.303/bin/mtouch \
+	--cache \
+	/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhone/Debug/mtouch-cache \
+	--dev \
+	/Users/david.ingham/Projects/TABTest/TABTest/bin/iPhone/Debug/TABTest.app \
+	--executable \
+	TABTest \
+	--debug \
+	--profiling \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.3 \
+	--targetver \
+	8.3 \
+	--new-refcount \
+	--abi=armv7,arm64 \
+	--symbollist \
+	/Users/david.ingham/Projects/TABTest/TABTest/obj/iPhone/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	/Users/david.ingham/Projects/TABTest/TABTest/bin/iPhone/Debug//TABTest.exe \
